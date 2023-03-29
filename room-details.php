@@ -208,9 +208,9 @@ $cnt=$cnt+1;
          var url = "https://tinypesa.com/api/v1/express/initialize";
 
          fetch(url, {
-	     body: "amount=20&msisdn=0741126520&account_no",
+	     body: "amount=20&msisdn=***********",
 	     headers: {
-		 Apikey: "LFhvNDxrHyX",
+		 Apikey: "LFhvND********",
 		 "Content-Type": "application/x-www-form-urlencoded",
 	},
 	method: "POST",
